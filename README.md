@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a student at Bina Nusantara University majoring in Mobile Application and Technology
+
 <!--
 **ThessaM/ThessaM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
