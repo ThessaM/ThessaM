@@ -2,6 +2,10 @@
 
 I am a student at Bina Nusantara University majoring in Mobile Application and Technology
 
+### Other Projects
+https://github.com/Nucizz/speakgestures
+https://github.com/Nucizz/beebliotheca
+
 <!--
 **ThessaM/ThessaM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
